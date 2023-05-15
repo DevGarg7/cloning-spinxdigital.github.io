@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Los Angeles Web Design Company | SPINX Digital Agency</title>
+    <link rel="icon" href="https://media.glassdoor.com/sqll/1012845/spinx-digital-squarelogo-1640175842046.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+
+    <nav class="navbar">
+        <div class="container">
+            <img src="images/asset 0.png" id="logo">
+            <div id="menu-container">
+                <ul id="menu">
+                    <li>
+                        <div class="underline"><a href="#WORK">WORK</a></div>
+                    </li>
+                    <li>
+                        <div class="underline"><a href="#EXPERTISE">EXPERTISE</a></div>
+                    </li>
+                    <li>
+                        <div class="underline"><a href="#ABOUT">ABOUT</a></div>
+                    </li>
+                    <li>
+                        <div class="underline"><a href="#INSIGHTS">INSIGHTS</a></div>
+                    </li>
+                </ul>
+                <div id="marquee">
+                    <marquee scrollamount="3" id="marquee1"><i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<i
+                            class="fa-regular fa-envelope"></i>&nbsp&nbspSTART&nbsp&nbspA&nbsp&nbspPROJECT&nbsp&nbsp&nbsp&nbsp
+                    </marquee>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- SECTION -->
+
+    <div class="section">
+        <div class="section-top">
+            <h2>
+                Crafting
+            </h2>
+            <!-- <video autoplay="" playsinline="" muted="" loop="" preload="" class="video"
+            poster="https://cdn-eahjn.nitrocdn.com/ChEvwayTHZmZJUAdsUNMLXuXZdBprFoQ/assets/images/optimized/rev-3bf3184/app/themes/spinxdigital/assets/images/hero-txt-img.jpg">
+            <source src="https://www.spinxdigital.com/app/themes/spinxdigital/assets/images/Hero.webm">
+            <source src="https://www.spinxdigital.com/app/themes/spinxdigital/assets/images/hero-bg-video.mp4">
+        </video> -->
+        </div>
+        <h2 class="section-bottom">
+            Immersive Digital Stories Through Technology
+        </h2>
+    </div>
+</body>
+
+</html>
